@@ -1,0 +1,2 @@
+(this["webpackJsonpsurpass-or-sleep"]=this["webpackJsonpsurpass-or-sleep"]||[]).push([[0],{9:function(e,s,r){"use strict";r.r(s);r(1);var t=r(3),n=r.n(t),c=r(0),i=(new Date).getHours();var o=function(){return Object(c.jsx)("div",{className:"container",children:i>24?Object(c.jsx)("h1",{children:"Why are you still working"}):Object(c.jsx)("h2",{children:"Surpass Your Limits!"})})};n.a.render(Object(c.jsx)(o,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.a9aae22a.chunk.js.map

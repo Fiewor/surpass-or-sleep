@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/surpass-or-sleep/static/js/main.a9aae22a.chunk.js",
+    "main.js.map": "/surpass-or-sleep/static/js/main.a9aae22a.chunk.js.map",
+    "runtime-main.js": "/surpass-or-sleep/static/js/runtime-main.160a3d0e.js",
+    "runtime-main.js.map": "/surpass-or-sleep/static/js/runtime-main.160a3d0e.js.map",
+    "static/js/2.885b0d43.chunk.js": "/surpass-or-sleep/static/js/2.885b0d43.chunk.js",
+    "static/js/2.885b0d43.chunk.js.map": "/surpass-or-sleep/static/js/2.885b0d43.chunk.js.map",
+    "index.html": "/surpass-or-sleep/index.html",
+    "static/js/2.885b0d43.chunk.js.LICENSE.txt": "/surpass-or-sleep/static/js/2.885b0d43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.160a3d0e.js",
+    "static/js/2.885b0d43.chunk.js",
+    "static/js/main.a9aae22a.chunk.js"
+  ]
+}
